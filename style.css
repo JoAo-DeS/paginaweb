@@ -1,0 +1,19 @@
+body{
+  background: purple;
+}
+
+header {
+  text-align: center;
+  color: #A4133C;
+  background: #1A1A1A;
+}
+
+main {
+  text-align: center;
+  color: purple;
+  background: black;
+}
+
+h1{
+  color: blue;
+}
