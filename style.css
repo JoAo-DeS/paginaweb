@@ -1,19 +1,24 @@
 body{
-  background: purple;
+  background: #C200FB;
 }
 
 header {
   text-align: center;
-  color: #A4133C;
-  background: #1A1A1A;
+  color: #C200FB;
+  background: #183c63;
 }
 
 main {
   text-align: center;
-  color: purple;
-  background: black;
+  color: #C200FB;
+  background: #00120B;
 }
 
 h1{
-  color: blue;
+  color: #C200FB;
+}
+
+img{
+  width: 80px;
+  height: 80px;
 }
