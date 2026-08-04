@@ -13,6 +13,7 @@ header {
 }
 
 main {
+  display: flex;
   text-align: center;
   color: #C200FB;
   background: #00120B;
