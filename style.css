@@ -8,7 +8,7 @@ header {
   background: #00120B;
   max-width: 800px;
   margin: 0 auto;
-  border: 5px solid #c000fbeb;
+  border: 6px solid #a800db;
   padding: 16px;
 }
 
@@ -16,6 +16,7 @@ main {
   text-align: center;
   color: #C200FB;
   background: #00120B;
+  border: 6px solid #a800db;
 }
 
 h1{
