@@ -18,6 +18,8 @@ main {
   color: #C200FB;
   background: #00120B;
   border: 6px solid #a800db;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 h1{
