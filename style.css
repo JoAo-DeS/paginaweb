@@ -9,6 +9,7 @@ header {
   max-width: 800px;
   margin: 0 auto;
   border: 5px solid #c000fbeb;
+  padding: 16px;
 }
 
 main {
@@ -24,4 +25,8 @@ h1{
 img{
   width: 80px;
   height: 80px;
+}
+
+.primeirop{
+  color: white;
 }
