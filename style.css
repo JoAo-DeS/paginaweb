@@ -20,7 +20,7 @@ main {
   background: #00120B;
   border: 6px solid #a800db;
   max-width: 800px;
-  margin-top: 16px;
+  margin: 40px auto 0;
 }
 
 h1{
