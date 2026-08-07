@@ -1,5 +1,5 @@
-const botao = document.querySelector('Button');
-botao.addEventListener('Click', botaoclicado);
+const botao = document.querySelector("Button");
+botao.addEventListener("Click", botaoclicado);
 
 function botaoclicado() {
     console.log("Clicado");
